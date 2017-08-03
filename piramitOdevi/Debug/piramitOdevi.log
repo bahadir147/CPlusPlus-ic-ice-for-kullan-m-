@@ -1,0 +1,23 @@
+﻿Build started 2.12.2014 20:47:45.
+     1>Project "D:\üNİVERSİTE C++ Projeler\piramitOdevi\piramitOdevi\piramitOdevi.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\piramitOdevi.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt piramit.cpp
+         piramit.cpp
+     1>d:\ünİversİte c++ projeler\piramitodevi\piramitodevi\piramit.cpp(7): warning C4101: 'b' : unreferenced local variable
+     1>d:\ünİversİte c++ projeler\piramitodevi\piramitodevi\piramit.cpp(7): warning C4101: 'c' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\üNİVERSİTE C++ Projeler\piramitOdevi\Debug\piramitOdevi.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\piramitOdevi.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\üNİVERSİTE C++ Projeler\piramitOdevi\Debug\piramitOdevi.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\üNİVERSİTE C++ Projeler\piramitOdevi\Debug\piramitOdevi.lib" /MACHINE:X86 Debug\piramit.obj
+         LINK : D:\üNİVERSİTE C++ Projeler\piramitOdevi\Debug\piramitOdevi.exe not found or not built by the last incremental link; performing full link
+         piramitOdevi.vcxproj -> D:\üNİVERSİTE C++ Projeler\piramitOdevi\Debug\piramitOdevi.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\üNİVERSİTE C++ Projeler\piramitOdevi\Debug\piramitOdevi.exe;#1" /manifest Debug\piramitOdevi.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\piramitOdevi.unsuccessfulbuild".
+         Touching "Debug\piramitOdevi.lastbuildstate".
+     1>Done Building Project "D:\üNİVERSİTE C++ Projeler\piramitOdevi\piramitOdevi\piramitOdevi.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.57
